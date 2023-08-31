@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prernagaikwad
-- 👀 I’m interested in Data Data science,Data Analytics.
+- 👀 I’m interested in Data science,Data Analytics, Power BI
 - 💞️ I’m currently working on data analysis with Power BI.
 - 📫 How to reach me mail id - prernagaikwad487@gmail.com
 
