@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @prernagaikwad
-- 👀 I’m interested in Data science.
-- 🌱 I’m currently learning Machine learning ,deep learning & statistics.
-- 💞️ I’m looking to collaborate on full time data science ,machine learning & data analysis.
+- 👀 I’m interested in Data Data science,Data Analytics.
+- 💞️ I’m currently working on data analysis with Power BI.
 - 📫 How to reach me mail id - prernagaikwad487@gmail.com
 
 <!---
